@@ -1,4 +1,9 @@
-name: Zbigniew Marczewski
+title : smarteR useR
+author :
+  name : Zbigniew Marczewski
+  github : zmar
+  
+# # Tell Github to use the kramdown markdown interpreter
 markdown: kramdown
 
 production_url : http://zmar.github.io/smarteR_useR
