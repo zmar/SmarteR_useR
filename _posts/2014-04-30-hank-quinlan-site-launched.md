@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "bla bla bla"
+layout: post
+title: "pierwszy_post"
 date: 2014-04-30
 ---
 
