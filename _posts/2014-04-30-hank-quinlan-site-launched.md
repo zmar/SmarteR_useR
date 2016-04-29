@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "bla bla bla"
 date: 2014-04-30
 ---
