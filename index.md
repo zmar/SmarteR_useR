@@ -13,3 +13,6 @@ Strona jest zawieszona na __GitHub-ie__ została napisana przy użyciu... __mark
 Budowanie strony na GitHub-ie jest super. Polecam 
 
 Zbigniew Marczewski
+
+
+[Link do piewszej podstrony](pages/strona_1.html)
