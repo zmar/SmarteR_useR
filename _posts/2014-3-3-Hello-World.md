@@ -1,6 +1,6 @@
 ---
-layout: deffou
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+layout: default
+title: "bla bla bla"
 date: 2014-04-30
 ---
 
