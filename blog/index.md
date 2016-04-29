@@ -4,7 +4,7 @@ title: BLOG
 author: Zbigniew Marczewski
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="default">
 asdasdasdasdasdasdasdasdsadasdas
 
 	  {% for post in site.posts %}
