@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "bla bla bla"
+title: "bla bla bla 1"
 date: 2014-04-30
 ---
 
