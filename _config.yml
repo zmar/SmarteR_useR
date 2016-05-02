@@ -1,2 +1,4 @@
-	name: Zbigniew Marczewski
-	markdown: kramdown
+name: Zbigniew Marczewski
+markdown: kramdown
+
+baseurl: /smarteR_useR
