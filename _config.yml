@@ -2,3 +2,5 @@ name: Zbigniew Marczewski
 markdown: kramdown
 
 baseurl: /smarteR_useR
+
+permalink: /blog/:year/:month/:day/:title
