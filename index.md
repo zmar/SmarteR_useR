@@ -10,8 +10,4 @@ Strona jest zawieszona na __GitHub-ie__ i została napisana przy użyciu... __ma
 
 [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 
-ashhhhhhhhhhhhhhhhhhhhhhhhhakakaakkakakakakakakakakakakaka
 
-[Link do piewszej podstrony](pages/strona_1.html)
-
-[Link do BLOGA](blog/index.html)
