@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Proste ułatwiające życie rozwiązania dla kodeRów.
 author: Zbigniew Marczewski
 ---
