@@ -13,6 +13,4 @@ Strona jest zawieszona na __GitHub-ie__ i została napisana przy użyciu... __ma
 
 [Link do piewszej podstrony](pages/strona_1.html)
 
-sdasdadassdasdad
-
 [Link do BLOGA](blog/index.html)
