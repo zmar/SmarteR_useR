@@ -1,6 +1,7 @@
 ---
-layout: pages
+layout: default
 ---
+
 
 sssssssssssssssssssssssssssssssssssssss
 sssssssssssssssssssssssssssssssssssssss
