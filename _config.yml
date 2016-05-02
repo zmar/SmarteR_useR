@@ -3,4 +3,4 @@ markdown: kramdown
 
 baseurl: /smarteR_useR
 
-smarteR_useR/blog/:year/:month/:day/:title
+smarteR_useR/:year/:month/:day/:title
