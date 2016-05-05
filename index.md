@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Proste ułatwiające życie rozwiązania dla kodeRów.
+title: O rozwiązaniach ułatwiających życie kodeRom.
 author: Zbigniew Marczewski
 ---
 
