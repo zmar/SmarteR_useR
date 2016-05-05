@@ -12,5 +12,5 @@ Strona jest zawieszona na __GitHub-ie__ i została napisana przy użyciu... __ma
 
 Poniżej link do mojego mini "bloga" (zawieszonego w tym samym repozytorium github co strona). W rzeczywistości zamierzam tu wpisać wszystkie ważniejsze "sztuczki", których się nauczyłem w R i o których ciągle zapominam.
 
-# [BLOG o użytecznych rozwiązaniach dla kodeRów](/blog/index.html)
+# [BLOG o użytecznych rozwiązaniach dla kodeRów](http://zmar.github.io/smarteR_useR/smarteR_useR/blog/index.html)
 
