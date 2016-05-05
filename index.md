@@ -10,7 +10,7 @@ Strona jest zawieszona na __GitHub-ie__ i została napisana przy użyciu... __ma
 
 [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 
-Poniżej link do bloga (zawieszonego w tym samym repozytorium github co strona):
+Poniżej link do mojego mini "bloga" (zawieszonego w tym samym repozytorium github co strona). W rzeczywistości zamierzam tu wpisać wszystkie ważniejsze "sztuczki", których się nauczyłem w R i o których ciągle zapominam.
 
 # [BLOG o użytecznych rozwiązaniach dla kodeRów](smarteR_useR/blog/index.html)
 
