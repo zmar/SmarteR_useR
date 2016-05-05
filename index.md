@@ -10,5 +10,5 @@ Strona jest zawieszona na __GitHub-ie__ i została napisana przy użyciu... __ma
 
 [http://jmcglone.com/guides/github-pages/](http://jmcglone.com/guides/github-pages/)
 
-[BLOG](smarteR_useR/blog/index.html)
+# Link do [BLOGa o użytecznych rozwiązaniach dla kodeRów](smarteR_useR/blog/index.html)
 
