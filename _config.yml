@@ -1,9 +1,11 @@
 name: Zbigniew Marczewski
 markdown: kramdown
+
+kramdown:
+  syntax_highlighter: rouge
+
 highlighter: pygments
 baseurl: /smarteR_useR
-
-
 
 #permalink: smarteR_useR/:year/:month/:day/:title.html
 
