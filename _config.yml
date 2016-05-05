@@ -1,6 +1,6 @@
 name: Zbigniew Marczewski
-markdown: kramdown
-
+#markdown: kramdown
+markdown: redcarpet
 baseurl: /smarteR_useR
 
 #permalink: smarteR_useR/:year/:month/:day/:title.html
