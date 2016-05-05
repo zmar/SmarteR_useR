@@ -2,6 +2,7 @@ name: Zbigniew Marczewski
 #markdown: kramdown
 markdown: redcarpet
 baseurl: /smarteR_useR
+highlighter: rouge
 
 #permalink: smarteR_useR/:year/:month/:day/:title.html
 
