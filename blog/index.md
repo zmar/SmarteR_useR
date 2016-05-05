@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLOG Zbyszka
+title: BLOG o użytecznych rozwiązaniach dla koreRów
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
