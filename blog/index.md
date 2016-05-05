@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLOG o użytecznych rozwiązaniach dla koreRów
+title: BLOG o użytecznych rozwiązaniach dla kodeRów
 ---
 <h1>{{ page.title }}</h1>
 <ul class="posts">
