@@ -36,7 +36,7 @@ Teraz w 2 etapach zamieniam _data.frame_ w _list_
 [1] "list"
 ```
 
-## ETAP 2.Kasowanie numerów wierszy
+## ETAP 2. Kasowanie numerów wierszy
 
 ```
 attr(ramka.danych, "row.names")<-c("")
