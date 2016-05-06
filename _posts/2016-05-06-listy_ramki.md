@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zamiana obiektu typu _data.frame_ na obiekt typu _list_"
+title: "Zamiana obiektu typu data.frame na obiekt typu list"
 date: 2016-05-06
 ---
 
