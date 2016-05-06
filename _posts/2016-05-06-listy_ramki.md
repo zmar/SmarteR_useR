@@ -24,7 +24,7 @@ Zaczynam od stworzenie obiektu tyou _data.frame_ o nazwie _ramka.danych_
 10     9      j
 ```
 
-Teraz w 2 etapach zamieniam _data.frame_ w _list_
+Teraz w 2. etapach zamieniam _data.frame_ w _list_
 
 ## ETAP 1. Zmiana atrybutu "class" z "data.frame" na "list"
 
