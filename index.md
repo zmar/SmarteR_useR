@@ -14,7 +14,7 @@ Poniżej link do mojego mini "bloga" (zawieszonego w tym samym repozytorium gith
 
 # [BLOG o użytecznych rozwiązaniach dla kodeRów](http://zmar.github.io/smarteR_useR/blog/index.html)
 
-asadasdasd
+asadasdasddlksdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 
 # [Link do repozytorium](https://github.com/zmar/smarteR_useR)
 
