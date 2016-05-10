@@ -1,4 +1,12 @@
+---
+layout: post
+title: "Lista plików w folderze"
+date: 2016-05-10
+---
 
+Aby sprawdzić ile jest plików danego typu (np. csv) w konkretnym folderze można użyć funkcji _list.files_. Atrybut _pattern_ pozwala przy pomocy wyrażeń regularnych wybrać pliki z konkretnym rozszerzeniem. W tym przypadku jest to __.csv__.
+
+```
 > pliki<-list.files(pattern = "\\.(csv|CSV)$")
 > pliki
 [1] "tekstowy_1.csv" "tekstowy_2.csv"
@@ -18,3 +26,4 @@
 12        12        45         c        94       321
 13        13        47         a        99       341
 14        14        49         b       104       361
+```
