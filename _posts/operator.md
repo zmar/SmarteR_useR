@@ -1,0 +1,27 @@
+
+
+
+```
+> funkcja1<-function(y){
++ y<-y*30+3 
++ print(y)
++ }
+> ## operator "<<-"
+> funkcja2<-function(z){
++ z<-z*30+3
++ print(z)
++ z<<-z
++ }
+> ## dziananie
+> x<-30
+> funkcja1(x)
+[1] 903
+> funkcja2(x)
+[1] 903
+> x
+[1] 30
+> z
+[1] 903
+> y
+BŁĄD: nie znaleziono obiektu 'y'
+```
