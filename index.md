@@ -16,5 +16,5 @@ Poniżej link do mojego mini "bloga" (zawieszonego w tym samym repozytorium gith
 
 
 
-# [Link do repozytorium](https://github.com/zmar/smarteR_useR)
+# [Link do repozytorium smarteR_useR](https://github.com/zmar/smarteR_useR)
 
