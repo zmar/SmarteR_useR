@@ -5,7 +5,7 @@ highlighter:  rouge
 
 baseurl: /smarteR_useR
 
-permalink: :year/:month/:day/:title.html
+permalink: /:year/:month/:day/:title.html
 # permalink: /:year/:month/:day/:title.html
 
 # permalink: /blog/:year/:month/:day/:title.html
